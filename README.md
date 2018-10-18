@@ -1,5 +1,5 @@
 # Boilerplate Meteor Project
-This includes a basics React and Auth setup.
+This is a meteor boilerplate that includes a basic React and Auth setup.
 
 # Demo
 ![](boilerplate-demo.gif)
